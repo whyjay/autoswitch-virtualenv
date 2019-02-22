@@ -12,7 +12,6 @@ Built on projects by
     If you use bash shell:
 
     ```bash
-    chmod a+x auto_virtualenv.sh
     cp auto_virtualenv.sh ~/.auto_virtualenv
     echo "source ~/.auto_virtualenv.sh" >> ~/.bash_profile
     ```
@@ -20,7 +19,6 @@ Built on projects by
     If you use zsh:
 
     ```bash
-    chmod a+x auto_virtualenv.sh
     cp auto_virtualenv.sh ~/.auto_virtualenv
     echo "source ~/.auto_virtualenv.sh" >> ~/.zshrc
     ```

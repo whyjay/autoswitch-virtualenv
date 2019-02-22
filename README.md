@@ -8,7 +8,7 @@ Built on projects by
 ## Installation
 
 1. Install [virtualenvwrapper](https://virtualenvwrapper.readthedocs.io).
-1. Run the following command:
+2. Run the following command:
 
     If you use bash shell:
 
@@ -36,7 +36,7 @@ Actual virtualenv will be saved at
     ~/.virtualenvs/NAME_OF_YOUR_CURRENT_FOLDER
     ```
 
-1. rmvenv
+2. rmvenv
 
 Remove virtualenv in current directory.
 

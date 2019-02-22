@@ -1,9 +1,8 @@
 This script will automatically switch to a Python virtual environment after you `cd` into a Python project, then deactivate when you leave.
 Built on projects by
-
-[Aidan Feldman](https://github.com/MichaelAquilina/zsh-autoswitch-virtualenv).
-[Michael Aquilina](https://gist.github.com/afeld/4aefc7c9493f1519e141f52b40dc6479)
-[Byeungchang Kim](https://github.com/bckim92/zsh-autoswitch-conda)
+[Aidan Feldman](https://github.com/MichaelAquilina/zsh-autoswitch-virtualenv),
+[Michael Aquilina](https://gist.github.com/afeld/4aefc7c9493f1519e141f52b40dc6479) and
+[Byeungchang Kim](https://github.com/bckim92/zsh-autoswitch-conda).
 
 ## Installation
 
